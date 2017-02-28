@@ -1,0 +1,36 @@
+
+/* NOTE: Header */
+header {
+  text-align: center;
+  font-size: 25px;
+  height: 100px;
+  margin: 0;
+}
+header h1{
+  margin: 0;
+}
+/* NOTE: body settings */
+.wrapper{
+  width: 800px;
+  margin: auto;
+  background-color: #eee;
+}
+body{
+  background-color: #f69120;
+  margin: 0;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.mainWrap{
+  height: auto;
+}
+
+
+/* NOTE: footer */
+footer{
+  margin: auto;
+width: inherit;
+position: fixed;
+background-color: white;
+text-align: center;
+}
